@@ -1,0 +1,8 @@
+_HiStOrY_V2_
+useer\040=\040new\040User();
+$user\040=\040new\040User();
+$user->name\040='John';
+$user->email='Johndoe@example.com';
+$user->password\040=\040bcrypt('password')
+$user->save();
+quit
